@@ -1,0 +1,25 @@
+{
+   "members": [
+    {
+        "Name": "John",
+        "image": "https://www.w3schools.com/w3images/team2.jpg",
+        "Job": "CEO"
+    },
+    {
+        "Name": "Doe",
+        "image": "https://www.w3schools.com/w3images/team1.jpg",
+        "Job": "CTO"
+    },
+    {
+        "Name": "Smith",
+        "image": "https://www.w3schools.com/w3images/team3.jpg",
+        "Job": "CFO"
+    },
+    {
+        "Name": "Jane",
+        "image": "https://www.w3schools.com/w3images/team4.jpg",
+        "Job": "COO"
+    }
+   ]
+
+}

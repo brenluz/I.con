@@ -1,13 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from "react";
+import './App.css';
+import QuemSomos from './equipe-page/equipe';
 
-function App() {
-
+const App = () => {
   return (
-    <div className="App">ola</div>
+    <>
+      <QuemSomos />
+    </>
   )
 }
 
-export default App
+export default App;

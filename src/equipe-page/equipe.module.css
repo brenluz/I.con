@@ -1,0 +1,26 @@
+
+.equipe { /* This is used to set the font used throught the equipe */
+    /* font-family: 'Montserrat', sans-serif; */
+    margin: 0;
+    padding: 0.625rem; /* 10px */
+    height: - 20rem; /* 20px */
+    display: flex;
+}
+
+.divTexto { /* This class is used to style the Title text of the page: Quem nos somos */
+    justify-content: left;
+    /* 10px */
+    margin-left: 2.5rem; /* 40px */
+}
+.textoEquipe {  /* This class is used to style the Title text of the page: Quem nos somos */
+    font-size: 3rem; /* 50px */
+}
+
+.colorEquipe { /* This class is used to change the color of some of the Title text of the page  */
+    color: #FEC400;
+}
+
+.about { /* This class is used to style the description text of the page under the Title */
+    justify-content: left;
+    font-size: 1.5rem; /* 24px */
+}

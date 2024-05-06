@@ -3,14 +3,14 @@
     /* font-family: 'Montserrat', sans-serif; */
     margin: 0;
     padding: 0.625rem; /* 10px */
-    height: - 20rem; /* 20px */
     display: flex;
+    flex-direction: column;
 }
 
 .divTexto { /* This class is used to style the Title text of the page: Quem nos somos */
-    justify-content: left;
-    /* 10px */
-    margin-left: 2.5rem; /* 40px */
+    justify-content: center;
+    align-items: center;
+
 }
 .textoEquipe {  /* This class is used to style the Title text of the page: Quem nos somos */
     font-size: 3rem; /* 50px */
@@ -21,6 +21,41 @@
 }
 
 .about { /* This class is used to style the description text of the page under the Title */
-    justify-content: left;
+    justify-content: center;
     font-size: 1.5rem; /* 24px */
+
+}
+.avatarContainer { /* This class is used to style the images of the page */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 1.25rem; /* 20px */
+    
+}
+.avatar { /* This class is used to style the images of the page */
+    padding: 0.625rem; 
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.8rem;
+
+}
+.membersContainer { /* This class is used to style the container of the images of the page */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem; /* 20px */
+    margin-top: 3rem; /* 20px */
+}
+.memberContainer { /* This class is used to style the container of the images of the page */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.cargo{
+    color: #6c757d;
+    font-size: 0.8rem; /* 12px */
 }

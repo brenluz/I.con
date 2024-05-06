@@ -1,25 +1,84 @@
 {
-   "members": [
-    {
-        "Name": "John",
-        "image": "https://www.w3schools.com/w3images/team2.jpg",
-        "Job": "CEO"
-    },
-    {
-        "Name": "Doe",
-        "image": "https://www.w3schools.com/w3images/team1.jpg",
-        "Job": "CTO"
-    },
-    {
-        "Name": "Smith",
-        "image": "https://www.w3schools.com/w3images/team3.jpg",
-        "Job": "CFO"
-    },
-    {
-        "Name": "Jane",
-        "image": "https://www.w3schools.com/w3images/team4.jpg",
-        "Job": "COO"
-    }
-   ]
-
+	"members": [
+		{
+			"name": "John",
+			"image": "https://placehold.co/600x400?text=J",
+			"job": "CEO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		}
+	]
 }

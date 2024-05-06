@@ -1,13 +1,13 @@
 import React from "react";
-import './App.css';
-import QuemSomos from './equipe-page/equipe';
+import "./App.css";
+import QuemSomos from "./equipe-page/equipe";
 
 const App = () => {
-  return (
-    <>
-      <QuemSomos />
-    </>
-  )
-}
+	return (
+		<>
+			<QuemSomos />
+		</>
+	);
+};
 
 export default App;

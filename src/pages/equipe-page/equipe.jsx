@@ -1,6 +1,6 @@
 import styles from "./equipe.module.css";
 import Membro from "./membros";
-import data from "../assets/membros.json";
+import data from "../../assets/membros.json";
 
 const QuemSomos = () => {
 	return (

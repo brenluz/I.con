@@ -1,8 +1,14 @@
+import styles from './Aovivo.module.css';
+import Camera from './Camera.jsx';
+
 const Aovivo = () => {
     return (
-        <div>
-            <h1>AO VIVO</h1>
-            <p>Esta é a página de transmissão ao vivo</p>
+        <div className={styles.background}>
+            <div className={styles.Aovivo}>
+                <h2 className={styles.texto}>AO VIVO</h2>
+            </div>
+
+            <Camera /> {/*camera ao vivo*/}
         </div>
     );
 }

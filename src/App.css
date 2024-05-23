@@ -1,6 +1,15 @@
 /* #root {
 } */
 
+*, *::before, *::after{
+  box-sizing: border-box; 
+}
+
+*{
+  margin: 0; 
+  padding: 0; 
+}
+
 .read-the-docs {
   color: #888;
 }

@@ -8,6 +8,7 @@
 .texto1 {
    font-size: 75px; /* transformar em rem dps */
    text-align: center;
+   line-height: 90px;
 
    color: white;
 
@@ -16,13 +17,25 @@
 .texto2 {
    font-size: 25px;
    text-align: center;
+   line-height: 90px;
 
    color: white
 }
 
 .email {
+   font-weight: bold;
    font-size: 40px;
+   text-align: center;
+   line-height: 90px;
+
+   color: white
+}
+
+.info {
+   font-weight: bold;
+   font-size: 25px;
    text-align: center;
 
    color: white
+
 }

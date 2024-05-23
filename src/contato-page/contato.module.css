@@ -1,7 +1,32 @@
 .background {
-   color:#fec400
+   background-color:#fec400;
+   height: 100vh
+   
+
 }
 
-.texto {
-   color:aqua
+.texto1 {
+   font-size: 75px; /* transformar em rem dps */
+   text-align: center;
+   justify-content: center;
+
+   color:white;
+
+}
+
+.texto2 {
+   font-size: 25px;
+   text-align: center;
+   justify-content: center;
+
+   color: white
+}
+
+.email {
+   font-size: 30px;
+   text-align: center;
+   justify-content: center;
+
+   color: white;
+
 }

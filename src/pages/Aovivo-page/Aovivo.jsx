@@ -8,7 +8,7 @@ const Aovivo = () => {
                 <h2 className={styles.texto}>AO VIVO</h2>
             </div>
 
-            <Camera /> {/*camera ao vivo*/}
+            <Camera className={styles.cameraContainer} /> 
         </div>
     );
 }

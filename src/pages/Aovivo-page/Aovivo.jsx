@@ -7,8 +7,9 @@ const Aovivo = () => {
             <div className={styles.Aovivo}>
                 <h2 className={styles.texto}>AO VIVO</h2>
             </div>
-
-            <Camera className={styles.cameraContainer} /> 
+            <div className={styles.CameraContainer}>
+                <Camera /> 
+            </div>
         </div>
     );
 }

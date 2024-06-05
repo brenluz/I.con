@@ -22,8 +22,10 @@
   font-size: 50px;
 }
 
-/* .cameraContainer {
-} */
-
-/* .Camera {
-} */
+.CameraContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  padding: 10px;
+}

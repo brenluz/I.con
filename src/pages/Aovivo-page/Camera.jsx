@@ -1,8 +1,5 @@
-import styles from './Aovivo.module.css';
-
 const Camera = () => {
   return(
-    <div className={styles.camera}>  
      <iframe 
         width="560"
         height="315" 
@@ -12,7 +9,6 @@ const Camera = () => {
         referrerPolicy="strict-origin-when-cross-origin" 
         allowFullScreen>
       </iframe>
-    </div>
   );  
 }
 

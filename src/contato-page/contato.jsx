@@ -1,9 +1,14 @@
 import Entre_contato from './encontato.jsx'
 import styles from './contato.module.css'
+import Enviemsg from './enviemsg.jsx';
 
 const Contato = () => {
     return (
-        <Entre_contato/>
+        <div>
+            <Entre_contato />
+            <Enviemsg />
+        
+        </div>
 
     );
 };

@@ -39,3 +39,37 @@
    color: white
 
 }
+
+.backgroundc2 {
+   background-color: #222629;
+   height: 100vh;
+   display: flex;
+   padding: 0.625rem;
+
+}
+
+.mensagem{
+   font-weight: bold;
+   font-size: 40px;
+   right: 30%;
+   transform: translateX(30%);
+   margin: 0;
+   padding: 0.625rem; /* 10px */
+   margin-top: 3rem;
+
+   color: white;
+
+}
+
+.formulario {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   margin-top: 3rem;
+   padding: 0.625rem; /* 10px */
+
+}
+
+.textoform {
+   color: black
+}

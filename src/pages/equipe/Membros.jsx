@@ -1,5 +1,3 @@
-import styles from "./equipe.module.css";
-
 const Membro = ({ foto, nome, cargo }) => {
 	return (
 		<div className="flex flex-col">

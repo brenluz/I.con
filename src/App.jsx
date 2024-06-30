@@ -1,22 +1,17 @@
-<<<<<<< HEAD
-import React from 'react'
-import './App.css' 
-import QuemSomos from './pages/equipe-page/equipe'
-import { useState } from "react";
-=======
->>>>>>> origin/main
 import "./App.css";
-import Contato from "./pages/contato/index.jsx";
+import About from "./pages/about/Index.jsx";
+import AoVivo from "./pages/aovivo/Index.jsx";
+import Contato from "./pages/contato/Index.jsx";
+import QuemSomos from "./pages/equipe/Index.jsx";
 
 const App = () => {
 	// Para rodar o app Va ao terminal e digite npm run dev
-	return (
-		<>
+	return (<>
+    	<About />
 		<QuemSomos />
-		<Contato />;
-		</>
-	);
-	
+		<AoVivo />;
+		<Contato/>
+	</>);
 };
 
 export default App;

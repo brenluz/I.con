@@ -1,5 +1,5 @@
 
-import Membro from "./membros";
+import Membro from "./Membros";
 import data from "../../assets/membros.json";
 
 const QuemSomos = () => {

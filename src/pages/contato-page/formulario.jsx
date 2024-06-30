@@ -12,12 +12,13 @@ const Formulario = (props) => {
 		event.preventDefault();
 		alert(inputValue);
 	};
+
 	return (
-		<form className={styles.formulario} onSubmit={handleSubmit}>
+		<form className="flex flex-col w-full p-0.5" onSubmit={handleSubmit}>
 			<input
-				className={styles.textoform}
+				className={`${props.className} form-input rounded-md bg-zinc-500 placeholder:text-slate-100`}
 				placeholder={props.mensagem}
-				type="text"
+				type={props.type}
 				value={inputValue}
 				onChange={handleChange}
 			/>

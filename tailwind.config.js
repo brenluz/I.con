@@ -5,7 +5,17 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "main": "#FEC400",
+        "cinza": "#222629",
+      },
+      backgroundImage: {
+        "waves": "url('/public/wave.png')"
+      }
+    },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/forms'),
+  ],
 }

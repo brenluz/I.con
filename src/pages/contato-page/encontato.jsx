@@ -4,7 +4,7 @@ import { FaLocationDot } from "react-icons/fa6";
 
 const EntreContato = () => {
 	return (
-		<div className={styles.background}>
+		<div className="bg-red-400">
 			<h2 className={styles.texto1}>Entre em Contato</h2>
 			<p className={styles.texto2}>
 				Estamos abertos para dialogar e desenvolver pesquisa e projetos em

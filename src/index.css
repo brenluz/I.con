@@ -1,13 +1,20 @@
-@font-face {
-  font-family: 'Montserrat';
-  src: url('/fonts/Montserrat.ttf') format('truetype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   font-family: 'Montserrat', 'Trebuchet MS', sans-serif;
-
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: thin;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  width: 100vw;
 }

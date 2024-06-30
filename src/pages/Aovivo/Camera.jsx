@@ -9,7 +9,7 @@ const Camera = () => {
         referrerPolicy="strict-origin-when-cross-origin" 
         allowFullScreen>
       </iframe>
-  );
+  );  
 }
 
 export default Camera;

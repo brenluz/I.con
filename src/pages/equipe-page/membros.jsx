@@ -2,12 +2,15 @@ import styles from "./equipe.module.css";
 
 const Membro = ({ foto, nome, cargo }) => {
 	return (
-		<div className={styles.memberContainer}>
-			<div className={styles.avatarContainer}>
-				<img className={styles.avatar} src={foto} alt="Foto do iconico" />
+		<div className="flex flex-col">
+			<div className="flex flex-wrap size-52">
+				<img className="p-0.5 object-cover size-full rounded-md" src={foto} alt="Foto do iconico" />
 			</div>
-			<h3 style={{margin: 0}}>{nome}</h3>
-			<p className={styles.cargo}>{cargo}</p>
+			<div className="ml-3 my-3">
+				<h3 className="text-cinza">{nome}</h3>
+				<p className="text-[#939AA2] text-xs">{cargo}</p>
+			</div>
+			
 		</div>
 	);
 };

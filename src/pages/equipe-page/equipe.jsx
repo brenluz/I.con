@@ -1,22 +1,25 @@
-import styles from "./equipe.module.css";
+
 import Membro from "./membros";
 import data from "../../assets/membros.json";
 
 const QuemSomos = () => {
 	return (
-		<div className={styles.equipe}>
-			<div className={styles.divTexto}>
-				<h2 className={styles.textoEquipe}>
-					<span className={styles.colorEquipe}>QUEM </span>
-					NÓS SOMOS?
+		<div className="px-20 py-10 mt-10 flex flex-col">
+			<div className="">
+				<h2 className="font-bold text-[3.5rem]">
+					<span className="text-main">QUEM </span>
+					<span className="text-cinza"> NÓS SOMOS?</span>
 				</h2>
-				<span className={styles.about}>
-					Acima de tudo, somos um conjunto de pessoas interessadas em realizar
-					pesquisa e desenvolver projetos interdisciplinares envolvendo novas
-					tecnologias.
-				</span>
+				<div className="mt-10" >
+					<span className= "text-cinza text-2xl">
+						Acima de tudo, somos um conjunto de pessoas interessadas em realizar
+						pesquisa e desenvolver projetos interdisciplinares envolvendo novas
+						tecnologias.
+					</span>
+				</div>
+				
 			</div>
-			<div className={styles.membersContainer}>
+			<div className="flex flex-wrap mt-10 gap-3 justify-center">
 				{data.members.map((membro) => (
           <Membro
             key={membro.name}

@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 import { useState } from "react";
-import About from "./pages/about-page/index.jsx";
-=======
->>>>>>> origin/main
+import About from "./pages/about-page/Index.jsx";
 import "./App.css";
 import Contato from "./pages/contato/index.jsx";
 

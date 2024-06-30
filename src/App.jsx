@@ -1,12 +1,14 @@
-import About from "./pages/about-page/Index.jsx";
 import "./App.css";
-import AoVivo from "./pages/Aovivo/Index.jsx";
-import Contato from "./pages/contato-page/contato.jsx";
+import About from "./pages/about/Index.jsx";
+import AoVivo from "./pages/aovivo/Index.jsx";
+import Contato from "./pages/contato/Index.jsx";
+import QuemSomos from "./pages/equipe/Index.jsx";
 
 const App = () => {
 	// Para rodar o app Va ao terminal e digite npm run dev
 	return (<>
-    <About />
+    	<About />
+		<QuemSomos />
 		<AoVivo />;
 		<Contato/>
 	</>);

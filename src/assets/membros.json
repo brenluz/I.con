@@ -1,0 +1,84 @@
+{
+	"members": [
+		{
+			"name": "Lucas Adorno",
+			"image": "https://placehold.co/600x400?text=J",
+			"job": "CEO"
+		},
+		{
+			"name": "Ricardo Freitas",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		},
+		{
+			"name": "Doe",
+			"image": "https://www.w3schools.com/w3images/team1.jpg",
+			"job": "CTO"
+		},
+		{
+			"name": "Smith",
+			"image": "https://www.w3schools.com/w3images/team3.jpg",
+			"job": "CFO"
+		},
+		{
+			"name": "Jane",
+			"image": "https://www.w3schools.com/w3images/team4.jpg",
+			"job": "COO"
+		}
+	]
+}

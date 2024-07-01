@@ -1,9 +1,9 @@
 import "./App.css";
-import Contato from "./pages/contato/index.jsx";
+import Ainteresse from "./pages/Ainteresse/index.jsx";
 
 const App = () => {
 	// Para rodar o app Va ao terminal e digite npm run dev
-	return <Contato />;
+	return <Ainteresse/>;
 };
 
 export default App;

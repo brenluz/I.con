@@ -1,7 +1,7 @@
 
 const About = () => {
     return (
-        <div className ="bg-[#3E4349] h-full p-16 text-slate-100 text-2xl flex flex-col gap-y-10">
+        <div id="about" className="bg-[#3E4349] h-full p-16 text-slate-100 text-2xl flex flex-col gap-y-10">
             <div className= "py-8">
                 <span className="text-6xl font-bold ">
                     <span className="text-main"> SOBRE O </span>
@@ -12,6 +12,7 @@ const About = () => {
                 <span>
                     O ICON - Laboratório de Pesquisa, Desenvolvimento e Inovação em Interatividade, Computação e Novas Interfaces - está localizado dentro do Instituto de Humanidades, Artes e Ciências Prof. Milton Santos (IHAC) na Universidade Federal da Bahia (UFBA) e tem como principal objetivo desenvolver pesquisas de relevância e impacto acadêmico, além de fomentar a inovação artística, científica e tecnológica. Estas pesquisas conduzidas no laboratório devem oferecer aos estudantes de graduação e pós-graduação um ambiente inovador e criativo a fim de fomentar o desenvolvimento acadêmico e profissional dos envolvidos.
                 </span>
+                
             </div>
             <div>
                 <span>

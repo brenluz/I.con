@@ -1,12 +1,11 @@
 import "./App.css";
 
-import { Header } from "./components/Header/Header.jsx";
-import { Hero } from "./components/Hero/Hero.jsx";
+import { Header } from "./Components/Header/Header.jsx";
+import { Hero } from "./Components/Hero/Hero.jsx";
 import About from "./pages/about/Index.jsx";
 import AoVivo from "./pages/aovivo/Index.jsx";
 import Contato from "./pages/contato/Index.jsx";
 import QuemSomos from "./pages/equipe/Index.jsx";
-import { Interesse } from "./pages/interesse/Interesse.jsx";
 import Ainteresse from "./pages/Ainteresse/index.jsx";
 
 const App = () => {
@@ -14,9 +13,9 @@ const App = () => {
 	return (<>
 		<Header/>
 		<Hero />
-    	<About />
+		<About />
 		<QuemSomos />
-		<Interesse />
+		<Ainteresse />
 		<AoVivo />
 		<Contato />
 	</>);

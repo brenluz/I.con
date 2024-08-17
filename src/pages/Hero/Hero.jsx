@@ -5,9 +5,9 @@ export function Hero() {
         <section className="bg-primary w-full h-hero flex items-center justify-center">
             <div className="flex flex-col items-center justify-center gap-[35px]">
                 <div className="text-[70px] text-main font-bold leading-[75px]">
-                    <span className="text-white">Lab</span>oratorio de <br></br>
-                    <span className="text-white">I</span>nteratividade,  <br></br>
-                    <span className="text-white">CO</span>mputação e  <br></br>
+                    <span className="text-white">Lab</span>oratorio de <br/>
+                    <span className="text-white">I</span>nteratividade, <br/>
+                    <span className="text-white">CO</span>mputação e  <br/>
                     <span className="text-white">N</span>ovas Interfaces
             
                 </div>

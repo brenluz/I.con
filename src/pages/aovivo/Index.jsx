@@ -1,4 +1,3 @@
-import styles from './Aovivo.module.css'
 import Camera from './Camera.jsx'
 
 const Aovivo = () => {

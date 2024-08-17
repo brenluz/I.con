@@ -1,7 +1,7 @@
 import "./App.css";
 
-import { Header } from "./Components/Header/Header.jsx";
-import { Hero } from "./Components/Hero/Hero.jsx";
+import { Header } from "./pages/Header/Header.jsx";
+import { Hero } from "./pages/Hero/Hero.jsx";
 import About from "./pages/about/Index.jsx";
 import AoVivo from "./pages/aovivo/Index.jsx";
 import Contato from "./pages/contato/Index.jsx";

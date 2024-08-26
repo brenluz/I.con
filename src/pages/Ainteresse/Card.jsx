@@ -9,7 +9,7 @@ class Card extends Component {
             ? React.cloneElement(icon, { size: 25 }) // Change 50 to the desired size
             : icon;
         return (
-            <div className="flex flex-col justify-center items-center m-2 h-full">
+            <div className="flex flex-col flex-grow justify-center items-center m-2 h-full">
                 <span> {modifiedIcon} </span>
                 <p className= "text-center font-bold">{title}</p>
                 <p className= "text-justify m-1 p-3 text-xs">{text}</p>

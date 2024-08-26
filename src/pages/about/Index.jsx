@@ -17,7 +17,7 @@ const About = () => {
             <div>
                 <span>
                     Fundamentado em um tripé
-                    <span className="text-main text-2xl flex-wrap"> ARTE/CIÊNCIA/EDUCAÇÃO </span>
+                    <span className="text-main sm:text-md md:text-sm "> ARTE/ CIÊNCIA/ EDUCAÇÃO </span>
                      o espaço busca estabelecer parcerias com centros e pesquisadores nacionais e internacionais. Estas parcerias têm como função criar uma rede de pesquisa sólida, capaz de fomentar o desenvolvimento das pesquisas realizadas no âmbito do laboratório e de oferecer aos pesquisadores e artistas de outras instituições um espaço capaz de recebe-los para desenvolver trabalhos científicos e artísticos
                 </span>
             </div>

@@ -16,9 +16,9 @@ const About = () => {
             </div>
             <div>
                 <span>
-                    Fundamentado em um tripé 
-                    <span className="text-main px-2">ARTE/CIÊNCIA/EDUCAÇÃO</span>
-                    o espaço busca estabelecer parcerias com centros e pesquisadores nacionais e internacionais. Estas parcerias têm como função criar uma rede de pesquisa sólida, capaz de fomentar o desenvolvimento das pesquisas realizadas no âmbito do laboratório e de oferecer aos pesquisadores e artistas de outras instituições um espaço capaz de recebe-los para desenvolver trabalhos científicos e artísticos        
+                    Fundamentado em um tripé
+                    <span className="text-main text-2xl flex-wrap"> ARTE/CIÊNCIA/EDUCAÇÃO </span>
+                     o espaço busca estabelecer parcerias com centros e pesquisadores nacionais e internacionais. Estas parcerias têm como função criar uma rede de pesquisa sólida, capaz de fomentar o desenvolvimento das pesquisas realizadas no âmbito do laboratório e de oferecer aos pesquisadores e artistas de outras instituições um espaço capaz de recebe-los para desenvolver trabalhos científicos e artísticos
                 </span>
             </div>
             <div className="flex flex-col gap-y-3 text-sm">

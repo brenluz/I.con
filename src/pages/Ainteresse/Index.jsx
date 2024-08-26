@@ -12,7 +12,7 @@ const Ainteresse = () => {
             <h2 className="font-bold text-3xl md:text-5xl mb-4 pt-20"> <span className="text-main">ÁREAS DE</span> INTERESSE</h2>
             <p className="justify-start text-md md:text-2xl pt-6"> Este espaço recorre à metodologia inter e transdisciplinar pois visa o trabalho construtivo, que se desenvolve a partir de várias áreas de conhecimento como a Ciência da Computação, Artes Visuais, Música Psicologia, Biologia e Eletrônica.</p>
             <hr className="my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"/>
-            <div className="flex flex-row">
+            <div className="flex flex-row flex-wrap md:text-md">
                 <Card icon={<FaRegImage/>} title="ARTE COMPUTACIONAL" text="Criação de obras de arte computacional interativa envolvendo a criação sonora ou visual."/>
 
                 <Card icon={<HiMiniCommandLine/>} title="INTELIGÊNCIA ARTICIAL" text="Técnicas de IA como Redes Neurais Artificiais (Deep Learn), Algorítmos Genéticos e Sistemas Multiagentes aplicadas à Interação Humano-Computador."/>

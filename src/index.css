@@ -18,6 +18,6 @@
   scroll-behavior: smooth;
 }
 
-body {
+html {
   max-width: 100vw;
 }

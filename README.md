@@ -1,5 +1,3 @@
-Aqui está uma versão melhorada do seu README para o repositório:
-
 ---
 
 # I.CON - Laboratório de Pesquisa, Desenvolvimento e Inovação

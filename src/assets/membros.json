@@ -2,83 +2,23 @@
 	"members": [
 		{
 			"name": "Lucas Adorno",
-			"image": "https://placehold.co/600x400?text=J",
-			"job": "CEO"
+			"image": "https://placehold.co/600x400?text=L",
+			"job": "Desenvolvedor"
 		},
 		{
 			"name": "Ricardo Freitas",
-			"image": "https://www.w3schools.com/w3images/team1.jpg",
-			"job": "CTO"
+			"image": "https://placehold.co/600x400?text=R",
+			"job": "Desenvolvedor"
 		},
 		{
-			"name": "Smith",
-			"image": "https://www.w3schools.com/w3images/team3.jpg",
-			"job": "CFO"
+			"name": "Breno Paz",
+			"image": "https://placehold.co/600x400?text=B",
+			"job": "Desenvolvedor"
 		},
 		{
-			"name": "Jane",
-			"image": "https://www.w3schools.com/w3images/team4.jpg",
-			"job": "COO"
-		},
-		{
-			"name": "Doe",
-			"image": "https://www.w3schools.com/w3images/team1.jpg",
-			"job": "CTO"
-		},
-		{
-			"name": "Smith2",
-			"image": "https://www.w3schools.com/w3images/team3.jpg",
-			"job": "CFO"
-		},
-		{
-			"name": "Jane2",
-			"image": "https://www.w3schools.com/w3images/team4.jpg",
-			"job": "COO"
-		},
-		{
-			"name": "Doe2",
-			"image": "https://www.w3schools.com/w3images/team1.jpg",
-			"job": "CTO"
-		},
-		{
-			"name": "Smith3",
-			"image": "https://www.w3schools.com/w3images/team3.jpg",
-			"job": "CFO"
-		},
-		{
-			"name": "Jane3",
-			"image": "https://www.w3schools.com/w3images/team4.jpg",
-			"job": "COO"
-		},
-		{
-			"name": "Doe3",
-			"image": "https://www.w3schools.com/w3images/team1.jpg",
-			"job": "CTO"
-		},
-		{
-			"name": "Smith4",
-			"image": "https://www.w3schools.com/w3images/team3.jpg",
-			"job": "CFO"
-		},
-		{
-			"name": "Jane4",
-			"image": "https://www.w3schools.com/w3images/team4.jpg",
-			"job": "COO"
-		},
-		{
-			"name": "Doe4",
-			"image": "https://www.w3schools.com/w3images/team1.jpg",
-			"job": "CTO"
-		},
-		{
-			"name": "Smith5",
-			"image": "https://www.w3schools.com/w3images/team3.jpg",
-			"job": "CFO"
-		},
-		{
-			"name": "Jane5",
-			"image": "https://www.w3schools.com/w3images/team4.jpg",
-			"job": "COO"
+			"name": "Eduardo Monteiro",
+			"image": "https://placehold.co/600x400?text=E",
+			"job": "Desenvolvedor"
 		}
 	]
 }
